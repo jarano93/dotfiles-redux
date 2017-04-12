@@ -1,0 +1,7 @@
+alias la=ls -a
+alias v=nvim
+alias t=tmux -2
+alias p=python2
+alias q=exit
+alias :q=exit
+alias :q!=exit

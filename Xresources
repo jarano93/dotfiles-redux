@@ -1,0 +1,61 @@
+!!  Global Colors !!
+# black
+*color0: #202020
+# red
+*color1: #f92672
+# green
+*color2: #a6e22a
+# yellow/brown
+*color3: #e6d674
+# blue
+*color4: #89bdff
+# magenta
+*color5: #ae81ff
+# cyan
+*color6: #bceef0
+# light gray
+*color7: #e6e6e6
+# gray
+*color8: #757575
+# pink
+*color9: #ff9594
+# light green
+*color10: #d9ff7d
+# yellow
+*color11: #ffd79f
+# light blue
+*color12: #adedee
+# light magenta
+*color13: #fd5ff1
+# light cyan
+*color14: #abffde
+# white
+*color15: #f2f8ff
+
+
+
+!!  URxvt Settings !!
+
+! hide scroll bar
+URxvt*scrollBar: false
+! do not scroll with output
+URxvt*scrollTtyOutput: false
+
+! scroll in relation to buffer (with mouse scroll or Shift + Page Up)
+URxvt*scrollWithBuffer: true
+
+! scroll back to the bottom on keypress
+URxvt*scrollTtyKepress: true
+
+! fade the text when focus lost
+!URxvt*fading: 25
+
+! URxvt background and foreground colors
+URxvt*background: #303030
+URxvt*foreground: #f8f8f2
+
+! URxvt font
+URxvt.font: xft:Fira Mono:size=8
+
+! reduce size between characters
+URxvt.letterSpace: -2

@@ -1,0 +1,44 @@
+background #303030
+foreground #f8f8f2
+
+# black
+color0 #202020
+# red
+color1 #f92672
+# green
+color2 #a6e22a
+# yellow/brown
+color3 #e6d674
+# blue
+color4 #89bdff
+# magenta
+color5 #ae81ff
+# cyan
+color6 #bceef0
+# light gray
+color7 #e6e6e6
+# gray
+color8 #757575
+# pink
+color9 #ff9594
+# light green
+color10 #d9ff7d
+# yellow
+color11 #ffd79f
+# light blue
+color12 #adedee
+# light magenta
+color13 #fd5ff1
+# light cyan
+color14 #abffde
+# white
+color15 #f2f8ff
+
+top0 #a6e22a
+opp0 #303030
+top1 #303030
+opp1 #757575
+top2 #ae8aff
+opp2 #abffde
+top3 #f92672
+opp3 #303030
